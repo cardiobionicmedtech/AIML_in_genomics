@@ -63,3 +63,15 @@ To develop and compare machine learning models that can accurately classify whet
   - `data_set_ALL_AML_independent.csv` – Independent test samples
 
 Each row in the dataset represents the gene activity (expression) of a patient, with labels indicating whether the patient has AML or ALL.
+
+---
+
+## 📁 Repository Structure
+The project is organized as follows:
+```
+├── Classification Model for ALL and AML/
+│ ├── Classification Model for AML & ALL.ipynb # EDA and classical ML model implementation
+│ └── README.md # Detailed information for this section
+└── README.md # This main repository README
+```
+
